@@ -1,5 +1,5 @@
 {
-  "name": "ng2-dragula",
+  "name": "@bradystoffel/ng2-dragula",
   "private": false,
   "version": "5.1.2",
   "description": "Simple drag and drop with dragula",
